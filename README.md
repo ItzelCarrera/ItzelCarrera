@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItzelCarrera
 - 👀 I’m interested in ...programar Software 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Sistemas Computacionales 
+- 💞️ I’m looking to collaborate on ...alguna empresa para desarrollar Software 
 - 📫 How to reach me ... 
 A través de mi correo:albac2392@gmail.com
 Número de teléfono:6142688407
